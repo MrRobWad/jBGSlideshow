@@ -53,7 +53,7 @@
 			}
 
 			$jBGSBGcontainer.css({
-				'transition':'background 0.5s linear',
+				'transition':'background 1.5s ease',
 				'background-size': 'cover',
 				'background-position':'50% 0%',
 				'background-repeat':'no-repeat no-repeat',
